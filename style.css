@@ -94,6 +94,6 @@ form {
 
 @media screen and (max-width: 480px) {
   .search-result {
-    width: 50%;
+    width: 100%;
   }
 }
